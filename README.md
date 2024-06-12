@@ -17,7 +17,7 @@ Skills:  Machine Learning | SQL | Python | Tableau | Deep Learning | Natural Lan
 --> 
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samruddhi Gaurkhede
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Samruddhi Gaurkhede
 ===========================================================================================================================================
 
 Data Analyst
@@ -28,6 +28,7 @@ I am an enthusiastic Data Analyst who is MTech graduate from IIT Bhubaneswar . I
 * 🌍  I'm based in Mumbai City
 * ✉️  You can contact me at [samruddhigaurkhede30@gmail.com](mailto:samruddhigaurkhede30@gmail.com)
 
+### Experience
 ### Skills
 
 

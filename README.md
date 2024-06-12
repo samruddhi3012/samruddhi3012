@@ -32,7 +32,7 @@ I am an enthusiastic Data Analyst who is MTech graduate from IIT Bhubaneswar . I
 #### Data Science Intern, Coderscave
 * Worked on various machine learning projects, gaining hands-on experience in algorithm implementation and model building.
 
-# Skills
+### Skills
 
 * Data Science: Natural Language Processing, Machine Learning, Deep Learning
 * Technologies/Frameworks: Scikit-learn, TensorFlow, Keras, Pandas, Numpy, Matplotlib, Seaborn, Streamlit, Data Structure and Algorithm, Linux

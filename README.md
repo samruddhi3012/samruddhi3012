@@ -31,7 +31,7 @@ I am an enthusiastic Data Analyst who is MTech graduate from IIT Bhubaneswar . I
 ### Experience <br />
 
 - #### Data Science Intern, Coderscave
-** Worked on various machine learning projects, gaining hands-on experience in algorithm implementation and model building.
+  * Worked on various machine learning projects, gaining hands-on experience in algorithm implementation and model building.
 
 ### Skills
 <!--

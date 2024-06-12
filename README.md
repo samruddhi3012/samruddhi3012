@@ -29,7 +29,7 @@ I am an enthusiastic Data Analyst who is MTech graduate from IIT Bhubaneswar . I
 * ✉️  You can contact me at [samruddhigaurkhede30@gmail.com](mailto:samruddhigaurkhede30@gmail.com)
 
 ### Experience
-------------
+-**-----------**
 
 ### Skills
 

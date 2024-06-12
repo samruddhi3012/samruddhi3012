@@ -29,15 +29,15 @@ I am an enthusiastic Data Analyst who is MTech graduate from IIT Bhubaneswar . I
 * ✉️  You can contact me at [samruddhigaurkhede30@gmail.com](mailto:samruddhigaurkhede30@gmail.com)
 
 ### Experience
--**-----------**
+#### Coderscave
 
 ### Skills
 
-* Programming Languages: Python, SQL
 * Data Science: Natural Language Processing, Machine Learning, Deep Learning
 * Technologies/Frameworks: Scikit-learn, TensorFlow, Keras, Pandas, Numpy, Matplotlib, Seaborn, Streamlit, Data Structure and Algorithm, Linux
 * Cloud Technologies: Microsoft Azure
 * BI Tools: Excel, Tableau, Power BI, Git & GitHub
+
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>

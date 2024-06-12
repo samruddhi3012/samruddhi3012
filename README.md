@@ -3,7 +3,7 @@
 <!--
 **samruddhi3012/samruddhi3012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Skills:  Machine Learning | SQL | Python | Tableau 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Skills:  Machine Learning | SQL | Python | Tableau 

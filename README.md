@@ -27,6 +27,7 @@ I am an enthusiastic Data Analyst who is MTech graduate from IIT Bhubaneswar. I 
 
 * 🌍  I'm based in Nagpur, Maharashtra 
 * ✉️  You can contact me at [samruddhigaurkhede30@gmail.com](mailto:samruddhigaurkhede30@gmail.com)
+* :link: Let's connect at [LinkedIn](https://www.linkedin.com/in/samruddhigaurkhede)
 
 <!--
 ### Experience <br />
@@ -56,4 +57,4 @@ I am an enthusiastic Data Analyst who is MTech graduate from IIT Bhubaneswar. I 
 
 ### Socials
 
-</picture> </a> <a href="https://www.linkedin.com/in/samruddhigaurkhede" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+</picture> </a> <a href="https://www.linkedin.com/in/samruddhigaurkhede" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="15" height="15" /> </picture> </a></p>

@@ -25,7 +25,7 @@ Data Analyst
 
 I am an enthusiastic Data Analyst who is MTech graduate from IIT Bhubaneswar. I love leveraging data-driven insights to solve complex problems and developing optimized solutions. With a solid foundation in Machine Learning, SQL and Python and a keen interest in technology, I strive to continuously learn and grow in my field.
 
-* 🌍  I'm based in Nagpur, Maharashtra 
+* 🌍  I'm based in Mumbai, Maharashtra 
 * ✉️  You can contact me at [samruddhigaurkhede30@gmail.com](mailto:samruddhigaurkhede30@gmail.com)
 * :link: Let's connect at [LinkedIn](https://www.linkedin.com/in/samruddhigaurkhede)
 

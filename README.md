@@ -29,13 +29,11 @@ I am an enthusiastic Data Analyst who is MTech graduate from IIT Bhubaneswar. I 
 * ✉️  You can contact me at [samruddhigaurkhede30@gmail.com](mailto:samruddhigaurkhede30@gmail.com)
 * :link: Let's connect at [LinkedIn](https://www.linkedin.com/in/samruddhigaurkhede)
 
-<!--
 ### Experience <br />
 
 - #### Intern, Clazar
-  * Worked on various machine learning projects, gaining hands-on experience in algorithm implementation and accurate model building.
-  * 
--->
+  * Analyzed 1701 contacts to identify high-conversion prospects for gift card campaigns, resulting in 35 new deals and a 15% increase in customer engagement.
+  * Analyzed customer feedback data to identify product gaps and next steps, providing actionable insights that improved customer retention by 15%.
 
 ### Skills
 <!--

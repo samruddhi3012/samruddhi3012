@@ -33,7 +33,7 @@ I am an enthusiastic Data Analyst who is MTech graduate from IIT Bhubaneswar. I 
 ### Experience <br />
 
 - #### Intern, Clazar
-  * Tools : HubSpot, Google Sheets
+  * Tools : HubSpot, Google Sheets, ChatGPT, Clay, Zapier, Instantly AI
   * Analyzed 1701 contacts to identify high-conversion prospects for gift card campaigns, resulting in 35 new deals and a 15% increase in customer engagement.
   * Analyzed customer feedback data to identify product gaps and next steps, providing actionable insights that improved customer retention by 15%.
 

@@ -33,9 +33,13 @@ I am an enthusiastic Data Analyst who is MTech graduate from IIT Bhubaneswar. I 
 ### Experience <br />
 
 - #### Intern, Clazar
-  * Tools : HubSpot, Google Sheets, ChatGPT, Clay, Zapier, Instantly AI
-  * Analyzed 1701 contacts to identify high-conversion prospects for gift card campaigns, resulting in 35 new deals and a 15% increase in customer engagement.
-  * Analyzed customer feedback data to identify product gaps and next steps, providing actionable insights that improved customer retention by 15%.
+  * Tools : HubSpot, Google Sheets, SQL, ChatGPT, Clay, Zapier, Instantly AI
+  * Optimized data quality through cleaning and validation processes, enabling accurate trend analysis for business decisions.
+  * Automated repetitive tasks using Clay, HubSpot workflows, and ChatGPT, improving efficiency by 15%.
+  * Supported end-to-end email marketing campaigns, from segmentation to performance tracking.
+  * Transformed raw customer feedback into strategic insights using AI-driven sentiment analysis.
+  * Identified high-value B2B prospects through market research and enriched HubSpot CRM for targeted lead generation.
+  * Optimized HubSpot CRM data quality by removing duplicates and enriching records, improving data accuracy by 20% for sales and marketing teams.
 
 ### Skills
 <!--

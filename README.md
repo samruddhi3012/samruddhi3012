@@ -33,7 +33,7 @@ I am an enthusiastic Data Analyst who is MTech graduate from IIT Bhubaneswar. I 
 ### Experience <br />
 
 - #### Intern, Clazar
-  * Tools : HubSpot, Google Sheets, SQL, ChatGPT, Clay, Zapier, Instantly AI
+  * Tools : Python, HubSpot, Google Sheets, SQL, ChatGPT, Clay, Zapier, Instantly AI
   * Optimized data quality through cleaning and validation processes, enabling accurate trend analysis for business decisions.
   * Automated repetitive tasks using Clay, HubSpot workflows, and ChatGPT, improving efficiency by 15%.
   * Supported end-to-end email marketing campaigns, from segmentation to performance tracking.

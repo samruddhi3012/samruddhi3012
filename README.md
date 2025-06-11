@@ -23,7 +23,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-I am an enthusiastic Data Analyst who is MTech graduate from IIT Bhubaneswar. I love leveraging data-driven insights to solve complex problems and developing optimized solutions. With a solid foundation in Machine Learning, SQL and Python and a keen interest in technology, I strive to continuously learn and grow in my field.
+Passionate about turning raw data into strategic insights that drive business decisions. Expertise in **data mining**, **predictive modeling**, and **visualization** to uncover hidden trends and optimize performance. Proficient in **SQL**, **Python**, and **ML algorithms**, with a knack for simplifying complex data into actionable solutions. Always exploring the latest in AI/ML and automation to stay ahead in the data game.
 <!--
 * 🌍  I'm based in Mumbai, Maharashtra
 * ✉️  You can contact me at [samruddhigaurkhede30@gmail.com](mailto:samruddhigaurkhede30@gmail.com)

@@ -33,7 +33,8 @@ Passionate about turning raw data into strategic insights that drive business de
 ### Experience <br />
 
 - #### Intern, Clazar
-  * Tools : Python, SQL, HubSpot, Google Sheets, Clay, Zapier, Instantly AI, 6sense
+  * Tools : Python, Power BI, HubSpot, Google Sheets, Instantly AI, 6sense
+  * Automation Tools : n8n, Zapier, Make, Clay
   * Achievements: 
     * Automated repetitive tasks using Clay, HubSpot workflows, and ChatGPT, improving efficiency by 15%.
     * Supported 10 + end-to-end email marketing campaigns, from segmentation to KPIs tracking.

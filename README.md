@@ -28,7 +28,7 @@ Passionate about turning raw data into strategic insights that drive business de
 * 🌍  I'm based in Mumbai, Maharashtra
 * ✉️  You can contact me at [samruddhigaurkhede30@gmail.com](mailto:samruddhigaurkhede30@gmail.com)
 * :link: Let's connect at [LinkedIn](https://www.linkedin.com/in/samruddhigaurkhede)
--->
+
 
 ### Experience <br />
 
@@ -41,6 +41,7 @@ Passionate about turning raw data into strategic insights that drive business de
     * Transformed raw customer feedback into strategic insights using AI-driven sentiment analysis.
     * Identified high-value B2B prospects through market research and enriched HubSpot CRM for targeted lead generation.
     * Optimized HubSpot CRM data quality by removing duplicates and enriching records, improving data accuracy by 20% for sales and marketing teams.
+-->
 
 ### Skills
 <!--
